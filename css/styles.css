@@ -1,0 +1,47 @@
+
+*{
+  font-family:sans-serif;
+}
+body{
+   background-color:#696969;
+  margin:0;
+  width:100%;
+   background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_358308.jpg");
+   background-size:cover;
+  background-repeat:no-repeat;
+  list-style: none;
+}
+h2{
+  font-family:Lucida Sans;
+  color:white;
+  font-weight:bold;
+}
+h1{
+  font-family:Lucida Sans;
+  color:white;
+  font-weight:700;
+}
+ol{
+  color:yellow;
+}
+ul{
+  color:#0000FF;
+  margin:0 auto;
+  width:960px;
+}
+p {
+  color:#00BFFF;
+}
+ul>li>p {
+  color: olive;
+}
+nav>ul>li{
+  display:inline-block;
+  background-color: white;
+}
+nav{
+  margin:0 auto;
+  padding:10px 0;
+  margin-right:0%;
+  max-width:960px;
+}
