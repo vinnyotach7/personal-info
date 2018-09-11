@@ -3,45 +3,44 @@
   font-family:sans-serif;
 }
 body{
-   background-color:#696969;
+   background-color:#000A66.;
   margin:0;
   width:100%;
-   background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_358308.jpg");
+   background-image: url("http://www.grup-pumsa.cat/uploadwallimgs/b/23/238145_top-best-wallpapers.jpg");
    background-size:cover;
   background-repeat:no-repeat;
   list-style: none;
 }
-h2{
-  font-family:Lucida Sans;
-  color:white;
+h2{  color:white;
   font-weight:bold;
 }
 h1{
   font-family:Lucida Sans;
-  color:white;
+  color:#00FFFF;
   font-weight:700;
 }
 ol{
-  color:yellow;
+  color:#C71585;
 }
 ul{
-  color:#0000FF;
+  color:#00FF00.;
   margin:0 auto;
   width:960px;
 }
 p {
-  color:#00BFFF;
+  color:#33E100;
 }
 ul>li>p {
-  color: olive;
+  color: #00FF00.;
 }
 nav>ul>li{
   display:inline-block;
-  background-color: white;
+  background-color: #9ACD32;
 }
 nav{
   margin:0 auto;
   padding:10px 0;
   margin-right:0%;
   max-width:960px;
+  color: #004699;
 }
